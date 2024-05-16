@@ -1,0 +1,16 @@
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\bin\Debug\net8.0-windows\tpmod12_1302223039.exe
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\bin\Debug\net8.0-windows\tpmod12_1302223039.deps.json
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\bin\Debug\net8.0-windows\tpmod12_1302223039.runtimeconfig.json
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\bin\Debug\net8.0-windows\tpmod12_1302223039.dll
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\bin\Debug\net8.0-windows\tpmod12_1302223039.pdb
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.Form1.resources
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.csproj.GenerateResource.cache
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.AssemblyInfoInputs.cache
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.AssemblyInfo.cs
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.csproj.CoreCompileInputs.cache
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.dll
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\refint\tpmod12_1302223039.dll
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.pdb
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\tpmod12_1302223039.genruntimeconfig.cache
+C:\Kuliah\semester 4\P_Konstruksi Perangkat Lunak\Minggu 12\tpmod12_1302223039\tpmod12_1302223039\obj\Debug\net8.0-windows\ref\tpmod12_1302223039.dll
